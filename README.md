@@ -8,14 +8,11 @@
 
 </div>
 
----
-
 ## 🙋‍♂️ About Me
 
 - 🗄️ **SQL-first data professional** - fluent in complex queries, window functions, query optimization, and building analytical data models across **Snowflake, PostgreSQL, and MySQL**
 - 📊 **Analytics Engineer** who bridges raw data and business insights using **dbt, Pandas, and Power BI** - designing star schemas, SCD Type 2 snapshots, and end-to-end reporting pipelines
 - ⚙️ **Data pipeline builder** specializing in **cloud warehousing**, **ML data workflows**, and automating deployments with **Airflow & GitHub Actions CI/CD**
-- 📍 Based in **Arlington, Texas**
 
 ---
 
